@@ -1,7 +1,8 @@
 
 # Olá, eu sou Leandro Menezes 🚀
 
-![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandromenezes81&show_icons=true&theme=dracula)
+![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandromenezes81&show_icons=true&theme=dracula) </br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandromenezes81&hide_progress=true&theme=dracula)](https://github.com/Leandromenezes81/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 <div style="display: inline_block">
