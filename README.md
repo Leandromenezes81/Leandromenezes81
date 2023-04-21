@@ -1,10 +1,10 @@
 
-# Olá, eu sou Leandro Menezes 🚀
+# Hello, I'm Leandro Menezes 🚀
 
 ![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandromenezes81&show_icons=true&theme=dracula) </br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandromenezes81&hide_progress=true&theme=dracula)](https://github.com/Leandromenezes81/github-readme-stats)
 
-## Tecnologias que uso no meu dia
+## Technologies I use in my day
 <div style="display: inline_block">
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt=".NET#" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
@@ -17,7 +17,7 @@
   <img align="center" alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />  
 </div>
 
-### Estão no meu 🛰️
+### Is on my radar 🛰️
 
 <div style="display: inline_block">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
